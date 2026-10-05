@@ -1,0 +1,978 @@
+deal_id,company,investor,role
+7,Bluecore Energy,Silverton Partners,lead
+7,Bluecore Energy,Borusan Ventures,participant
+7,Bluecore Energy,Harlem Capital Partners,participant
+7,Bluecore Energy,LMNT Ventures,participant
+7,Bluecore Energy,Precursor Ventures,participant
+7,Bluecore Energy,Slauson & Co,participant
+8,Precision,Ackman Oxman Institute,lead
+8,Precision,Pershing Square,lead
+8,Precision,ARK Invest,participant
+8,Precision,B Capital,participant
+8,Precision,Duquesne Family Office,participant
+8,Precision,Hitachi Ventures,participant
+8,Precision,Invus,participant
+8,Precision,JSL Health Capital,participant
+8,Precision,Korea Investment Partners,participant
+8,Precision,Mirae Asset Capital,participant
+8,Precision,Mubadala Capital,participant
+9,Ema,Creaegis,lead
+9,Ema,Accel,participant
+9,Ema,Prosus,participant
+9,Ema,S32,participant
+10,Enveda,Catalio Capital Management,lead
+10,Enveda,Alderline Group,participant
+10,Enveda,Baillie Gifford,participant
+10,Enveda,Digitalis Ventures,participant
+10,Enveda,Dimension,participant
+10,Enveda,Durable Capital Partners,participant
+10,Enveda,FPV Ventures,participant
+10,Enveda,ICONIQ,participant
+10,Enveda,Kinnevik,participant
+10,Enveda,Lifeforce Capital,participant
+10,Enveda,Lightspeed,participant
+10,Enveda,Lux Capital,participant
+10,Enveda,Premji Invest,participant
+10,Enveda,Surveyor Capital,participant
+10,Enveda,T. Rowe Price,participant
+10,Enveda,True Ventures,participant
+11,Circle Games,Tencent,lead
+11,Circle Games,BITKRAFT Ventures,participant
+11,Circle Games,e2vc,participant
+12,Hubble Network,Smith Point Capital,lead
+12,Hubble Network,Carthona Capital,participant
+12,Hubble Network,Earthshot Ventures,participant
+12,Hubble Network,RPM Ventures,participant
+12,Hubble Network,Seraphim,participant
+12,Hubble Network,Y Combinator,participant
+13,Quartz,Daphni,lead
+13,Quartz,K Fund,participant
+13,Quartz,Outward VC,participant
+14,Verda,Emergence Capital,lead
+14,Verda,6 Degrees Capital,participant
+14,Verda,Lifeline Ventures,participant
+14,Verda,MUFG Innovation Partners,participant
+14,Verda,Supermicro,participant
+14,Verda,Tesi,participant
+14,Verda,Varma Mutual Pension Insurance Company,participant
+14,Verda,byFounders,participant
+15,Kairos Power,Samsung C&T,lead
+16,Disera,Türkiye Yeşil Fonu,lead
+17,Altis Labs,OrbiMed,lead
+17,Altis Labs,Qiming Venture Partners USA,lead
+17,Altis Labs,Benchstrength,participant
+17,Altis Labs,Cancer Breakthrough Fund,participant
+17,Altis Labs,Fusion Fund,participant
+17,Altis Labs,Innovation Endeavors,participant
+18,Vantora,Silversmith Capital Partners,lead
+19,Ingosa,FutureBright Ventures,lead
+20,EnduroSat,Atreides Management,lead
+20,EnduroSat,Riot Ventures,lead
+20,EnduroSat,Emphatic Capital,participant
+20,EnduroSat,Endeavor Catalyst,participant
+20,EnduroSat,European Innovation Council,participant
+20,EnduroSat,Founders Fund,participant
+20,EnduroSat,Giant Ventures,participant
+20,EnduroSat,Google Ventures,participant
+20,EnduroSat,House Capital,participant
+20,EnduroSat,Lux Capital,participant
+20,EnduroSat,Omnes Capital,participant
+21,Arcee AI,Cambium Capital,lead
+21,Arcee AI,Emergence Capital,lead
+21,Arcee AI,Vista Equity Partners,lead
+21,Arcee AI,AI10 Ventures,participant
+21,Arcee AI,Hitachi,participant
+21,Arcee AI,IAG,participant
+21,Arcee AI,M12,participant
+21,Arcee AI,P7,participant
+21,Arcee AI,Wipro,participant
+22,CADDi,Atomico,participant
+22,CADDi,Coreline Ventures,participant
+22,CADDi,Globis Capital Partners,participant
+22,CADDi,HR Tech Fund,participant
+22,CADDi,JPS Growth Investment,participant
+22,CADDi,Moore Strategic Ventures,participant
+22,CADDi,Salesforce Ventures,participant
+22,CADDi,Woven Capital,participant
+23,Arcustin Games,Webrazzi GSYF,lead
+24,Safahat.ai,Insha Ventures,participant
+25,Akkim,Sika,lead
+26,HubX,Point72,lead
+27,Basil,Zeynep Köksal Yaykıran,lead
+28,Surge Games,Drilo Ventures,participant
+28,Surge Games,Play Ventures,participant
+28,Surge Games,Simya VC,participant
+29,Provenance,212,participant
+29,Provenance,Peter Bell,participant
+29,Provenance,SSC Venture Partners,participant
+30,Rotatelab,Arcadia Gaming Partners,lead
+30,Rotatelab,Laton Ventures,lead
+30,Rotatelab,Mert Gür,participant
+31,Kahuna,Yapay Zeka Fabrikası,participant
+32,HOUF Games,ŞirketOrtağım,lead
+33,Ingosa,FutureBright Ventures,lead
+34,Ore Energy,HV Capital,lead
+34,Ore Energy,Plural,lead
+34,Ore Energy,Positron Ventures,participant
+35,Otosende,Ergün Holding,lead
+36,Tasklet,Oleka Capital,participant
+37,Crescenta Biosciences,Enlila,lead
+38,5U AI,Emerge Capital,lead
+39,Enocta,Aquila,lead
+40,Kalder,Luumis,lead
+41,Gosan Tech,Epson,lead
+43,NewFrame,FutureBright Ventures,lead
+44,imagi,Brighteye Ventures,lead
+44,imagi,Day One Capital,lead
+44,imagi,Fredrik Hjelm,participant
+44,imagi,Mati Staniszewski,participant
+44,imagi,Simon Squibb,participant
+44,imagi,Sophia Amoruso,participant
+44,imagi,Thomas Dohmke,participant
+44,imagi,We Are Human,participant
+44,imagi,will.i.am,participant
+47,microagi,Hummingbird Ventures,lead
+47,microagi,LocalGlobe,participant
+47,microagi,Northzone,participant
+47,microagi,Village Global,participant
+47,microagi,redalpine,participant
+48,ya da Multicosmetics,Nevzat Aydın,lead
+49,Kant Labs,Anka Ventures,lead
+50,DSALTA,Yapay Zeka Fabrikası,lead
+51,PulpoAR,Alix Avien,participant
+51,PulpoAR,Decacorn Angels,participant
+51,PulpoAR,ENA Venture Capital,participant
+51,PulpoAR,Fintegral Holding,participant
+51,PulpoAR,Helo Angel Network,participant
+51,PulpoAR,LEAP Investment,participant
+51,PulpoAR,Nev Cap,participant
+51,PulpoAR,Nurol Portföy – İdacapital İvmelendirme GSYF,participant
+51,PulpoAR,OBSS Ventures,participant
+51,PulpoAR,Pastel Cosmetics,participant
+51,PulpoAR,Q Angels,participant
+51,PulpoAR,RePie Portföy,participant
+51,PulpoAR,Sharks & Partners,participant
+51,PulpoAR,StartersHub,participant
+51,PulpoAR,Teknasyon,participant
+51,PulpoAR,Yahya Ülker,participant
+52,Omen AI,Nava Ventures,lead
+52,Omen AI,Borusan Ventures,participant
+52,Omen AI,CRV,participant
+52,Omen AI,LMNT Ventures,participant
+52,Omen AI,Sheryl Sandberg,participant
+53,Monogram,DST Global,lead
+53,Monogram,Lux Capital,lead
+53,Monogram,Arthur Mensch,participant
+53,Monogram,Charlie Songhurst,participant
+53,Monogram,Conviction,participant
+53,Monogram,Garry Tan,participant
+53,Monogram,Gradient Ventures,participant
+53,Monogram,Karim Atiyeh,participant
+53,Monogram,Lenny Rachitsky,participant
+53,Monogram,Logan Green,participant
+53,Monogram,Mario Schlosser,participant
+53,Monogram,Maxitech,participant
+53,Monogram,Othman Laraki,participant
+53,Monogram,Pete Flint,participant
+53,Monogram,SOMA Capital,participant
+53,Monogram,e2vc,participant
+54,Apollo,Ünlü & Co,lead
+55,Vignetim,İTÜ ARI Teknokent,lead
+56,Timus Networks,CyberFOX,lead
+57,Spektra Games,APY Ventures,lead
+58,Bluedot,Epic Charging,lead
+59,Playable Factory,Tamatem,lead
+60,SWAZA,Techventure VC,lead
+61,Vignetim,Driventure,lead
+62,iRobot,Picea Robotics,lead
+63,Forithmus,Point Nine,lead
+63,Forithmus,e2vc,lead
+64,Aepnus,212 NexT,participant
+65,Getir,Uber,lead
+66,Flowla,Revo Capital,lead
+66,Flowla,AI Startup Factory,participant
+66,Flowla,Sharks & Partners,participant
+66,Flowla,Türkiye Kalkınma Fonu,participant
+67,Bixcod Teknoloji,Ahlatcı Holding,lead
+68,HrPanda,HubX,lead
+69,Ono,İSO GSYF,lead
+70,Abrakadabra Games,MİA Teknoloji,lead
+71,Traick AI,iLab,lead
+72,Pax Animi Games,Yapı Kredi Portföy Entertech GSYF,lead
+73,Envoyo,Navlungo,lead
+74,ConverJinn,Alesta,lead
+75,PixelByte,VLMedia,lead
+76,Loops AI,Launch Accelerator,lead
+77,Born,Accel,participant
+77,Born,Laton Ventures,participant
+77,Born,Tencent,participant
+78,Affiniture Cards Limited,Moka United,lead
+79,Kondukto,Invicti,lead
+80,IDaNote,Boğaziçi Ventures,lead
+81,Nanomik,Arya VC,lead
+81,Nanomik,APY Ventures,participant
+81,Nanomik,Derin Teknoloji GSYF,participant
+81,Nanomik,Teknoloji ve İnovasyon Fonu,participant
+81,Nanomik,İTÜ ARI Teknokent,participant
+82,Circle Games,BITKRAFT Ventures,lead
+82,Circle Games,APY Ventures,participant
+82,Circle Games,Play Ventures,participant
+82,Circle Games,a16z Speedrun,participant
+82,Circle Games,e2vc,participant
+83,AppLovin game studios,Tripledot Studios,lead
+84,Planla.ai,Kayacan Ventures,lead
+85,Sipay,Elephant,lead
+85,Sipay,QuantumLight VC,participant
+86,Uniti AI,Prudence,lead
+86,Uniti AI,Alate Partners,participant
+86,Uniti AI,Flex Capital,participant
+86,Uniti AI,Observer Capital,participant
+86,Uniti AI,RE Angels,participant
+87,MehirApp,Insha Ventures,lead
+88,Jobtogo,APY Ventures,participant
+88,Jobtogo,Ahu Serter,participant
+88,Jobtogo,Alim Küçükpehlivan,participant
+88,Jobtogo,KT Portföy,participant
+88,Jobtogo,Onur Bayındır,participant
+88,Jobtogo,SGlobe,participant
+89,Minted Connect,APY Ventures,lead
+89,Minted Connect,ForInvest,participant
+89,Minted Connect,Insha Ventures,participant
+89,Minted Connect,Kayacan Ventures,participant
+89,Minted Connect,Tmob,participant
+90,NEOPAY,Arcapita,lead
+90,NEOPAY,Dgpays,lead
+91,Talp,Aito Capital,participant
+91,Talp,Formus Capital,participant
+91,Talp,Sunshine Lake Ventures,participant
+91,Talp,a16z Scout Fund,participant
+92,Spaceflow,Y Combinator,participant
+93,Lucida AI,Velocity Capital,lead
+93,Lucida AI,Boğaziçi Ventures,participant
+93,Lucida AI,Look AI Ventures,participant
+93,Lucida AI,Next Tier Ventures,participant
+93,Lucida AI,Yapı Kredi FRWRD Ventures,participant
+93,Lucida AI,Ünlü & Co,participant
+94,Derya,212,participant
+94,Derya,Umur Çubukçu,participant
+94,Derya,Y Combinator,participant
+95,Ideasets,Gelecek Holding,participant
+96,Causa Prima,Creandum,lead
+96,Causa Prima,Angel Invest,participant
+96,Causa Prima,Borusan Ventures,participant
+96,Causa Prima,HelloWorld,participant
+96,Causa Prima,K Fund,participant
+97,Revogo,Akbank,lead
+98,Syzygy Plasmonics,Tüpraş Ventures,participant
+99,Via Separations,Tüpraş Ventures,participant
+100,Aqualung Carbon Capture,Tüpraş Ventures,participant
+101,Turbo Law,Revo Capital,lead
+101,Turbo Law,Alchemist Accelerator,participant
+101,Turbo Law,BridgeX Ventures,participant
+101,Turbo Law,Gokul Rajaram,participant
+101,Turbo Law,Treeo VC,participant
+102,Poltio,Inveo Ventures,lead
+102,Poltio,Rota Portföy Teknoloji GSYF,lead
+102,Poltio,BFV Yatırımları,participant
+102,Poltio,InMerge Ventures,participant
+102,Poltio,Mentor's Fund,participant
+103,Atana Elements,Lowercarbon Capital,lead
+103,Atana Elements,Borusan Ventures,participant
+103,Atana Elements,Earthshot Ventures,participant
+103,Atana Elements,Overture Ventures,participant
+103,Atana Elements,Redwoods Climate Capital,participant
+103,Atana Elements,Sunna Ventures,participant
+103,Atana Elements,Verve Ventures,participant
+103,Atana Elements,Volta Energy Technologies,participant
+103,Atana Elements,WovenEarth,participant
+104,Compuvi,Özay Hukuk Bürosu,participant
+104,Compuvi,İslam Yıldız,participant
+105,Atlantic,Galata Business Angels,lead
+105,Atlantic,Ahu Serter,participant
+105,Atlantic,Arif Akdağ,participant
+105,Atlantic,Ata Uzunhasan,participant
+105,Atlantic,Bülent Çelebi,participant
+105,Atlantic,Görkem Güven,participant
+105,Atlantic,Kaan Boyner,participant
+105,Atlantic,Uğur Şeker,participant
+106,Vendorside,Türk Hava Yolları GSYF,lead
+107,Viseur AI,APY Ventures,lead
+108,Driven AVS,Önder Erdem,lead
+109,Stonki,Investing.com,lead
+110,Bluecore,Insider One,lead
+112,Grand Games,Balderton,lead
+112,Grand Games,Bek Ventures,participant
+112,Grand Games,Laton Ventures,participant
+112,Grand Games,Mert Gür,participant
+113,Hardal,Invest101,participant
+113,Hardal,Maxis Ventures,participant
+113,Hardal,Sharks & Partners,participant
+113,Hardal,Simya VC,participant
+114,MobileAction,InMobi,lead
+115,Mindtail,APY Ventures,lead
+115,Mindtail,Ak Portföy,participant
+115,Mindtail,Inveo Ventures,participant
+116,Karavan,StartupCentrum Alpha GSYF,lead
+117,Patientdesk.ai,Blast Club,participant
+117,Patientdesk.ai,Eksim Ventures,participant
+117,Patientdesk.ai,TIBAS Ventures,participant
+117,Patientdesk.ai,Treeo VC,participant
+117,Patientdesk.ai,US News & World Report,participant
+117,Patientdesk.ai,Y Combinator,participant
+117,Patientdesk.ai,e2vc,participant
+118,Maxi Mobilite,ŞirketOrtağım,lead
+119,Lumnion,RePie Portföy,participant
+119,Lumnion,Sharks & Partners,participant
+121,Mission Control Games,General Catalyst,lead
+121,Mission Control Games,Arcadia Gaming Partners,participant
+121,Mission Control Games,e2vc,participant
+122,Replenit,Movens Capital,lead
+122,Replenit,Vastpoint,lead
+122,Replenit,Caucasus Ventures,participant
+122,Replenit,Finberg,participant
+122,Replenit,Logo Ventures,participant
+122,Replenit,Mati Staniszewski,participant
+123,PhiTech,Yapı Kredi Portföy Entertech GSYF,lead
+123,PhiTech,Adem Akkaya,participant
+123,PhiTech,Ahmet Kemal Atasoy,participant
+123,PhiTech,Arya VC,participant
+123,PhiTech,Banu Başaran,participant
+123,PhiTech,Candan Karabağlı,participant
+123,PhiTech,Eksim Ventures,participant
+123,PhiTech,Founder One,participant
+123,PhiTech,Gelecek Etki GSYF,participant
+123,PhiTech,Kamil Buğra Rodoper,participant
+123,PhiTech,Mert Erdoğmuş,participant
+123,PhiTech,Muharrem Usta,participant
+123,PhiTech,Osman Alp Arlı,participant
+123,PhiTech,Selami Düz,participant
+123,PhiTech,TechnoBee,participant
+123,PhiTech,Zeynep Seval,participant
+123,PhiTech,İTK Ventures,participant
+123,PhiTech,İstcapital,participant
+124,Eloquent AI,Foundation Capital,lead
+124,Eloquent AI,Revo Capital,participant
+125,Lebby Snacks,Balsu Gıda,lead
+126,Intechne Teknoloji,GearUp,lead
+127,TARCOM,Ergün Holding,lead
+128,Aidea,ENA Venture Capital,participant
+128,Aidea,RePie Portföy,participant
+129,lem0n.ai,Bombora Digital,lead
+130,Pocket eSIM,Bacacı Yatırım Holding,participant
+130,Pocket eSIM,Milenium VC,participant
+130,Pocket eSIM,Negmar Venture,participant
+130,Pocket eSIM,Ziraat Portföy,participant
+131,Müzigo,RHYM,lead
+132,Clave,Paribu,lead
+133,YED Teknoloji,Driventure,lead
+134,Archimetis,Inspired Capital,lead
+134,Archimetis,Borusan Ventures,participant
+134,Archimetis,Homebrew,participant
+134,Archimetis,Incite Capital,participant
+134,Archimetis,MCJ,participant
+135,Cheer Games,Makers Fund,lead
+135,Cheer Games,Play Ventures,participant
+136,Cognizo,Arif Akdağ,participant
+136,Cognizo,Ata Uzunhasan,participant
+136,Cognizo,Bülent Çelebi,participant
+136,Cognizo,Emrah Ünal,participant
+136,Cognizo,Emre Kurttepeli,participant
+136,Cognizo,Esat Uğurlu,participant
+136,Cognizo,Galata Business Angels,participant
+136,Cognizo,Görkem Güven,participant
+136,Cognizo,Kaan Boyner,participant
+136,Cognizo,Mana Ventures,participant
+136,Cognizo,Mustafa Kıral,participant
+136,Cognizo,Naci Topçuoğlu,participant
+136,Cognizo,Orange.fund,participant
+136,Cognizo,Saruhan Tan,participant
+136,Cognizo,Treeo VC,participant
+137,Vento Games,Arcadia Gaming Partners,lead
+137,Vento Games,Makers Fund,lead
+138,Antiverse,DBW,participant
+138,Antiverse,DOMiNO Ventures,participant
+138,Antiverse,InnoSpark,participant
+138,Antiverse,Innovation Investment Capital,participant
+138,Antiverse,Kadmos Capital,participant
+138,Antiverse,Soulmates Ventures,participant
+138,Antiverse,TotiPotent,participant
+138,Antiverse,i&i Biotech Fund,participant
+139,Validfor,DOMiNO Ventures,lead
+139,Validfor,Curiosity VC,participant
+140,Monq,Cornerstone VC,participant
+140,Monq,Endurance Ventures,participant
+140,Monq,Lakestar Halo,participant
+140,Monq,Octopus Ventures,participant
+140,Monq,Outward VC,participant
+140,Monq,Portfolio Ventures,participant
+140,Monq,Revo Capital,participant
+140,Monq,Sequoia Scouts,participant
+141,Loom Games,Scopely,lead
+142,Vimesoft,Bülent Tekmen,participant
+142,Vimesoft,MADA Girişim Sermayesi,participant
+142,Vimesoft,Murat Tanrıöver,participant
+142,Vimesoft,Mustafa Alpay Güler,participant
+142,Vimesoft,RePie Portföy,participant
+142,Vimesoft,Rubellius Capital,participant
+142,Vimesoft,Soner Gedik,participant
+142,Vimesoft,Ziraat Portföy,participant
+143,Paket Mutfak,Ali Sabancı,participant
+143,Paket Mutfak,Corsini Global,participant
+143,Paket Mutfak,Fırat İşbecer,participant
+143,Paket Mutfak,Nokta Yatırım Holding,participant
+143,Paket Mutfak,Robert Baler,participant
+143,Paket Mutfak,Sip & Bite GSYF,participant
+143,Paket Mutfak,Ünlü & Co,participant
+144,Neptune,Coşay Altuğ,participant
+144,Neptune,John Engle,participant
+145,Cendra,Revo Capital,lead
+145,Cendra,APY Ventures,participant
+145,Cendra,Heartfelt Capital,participant
+145,Cendra,Türkiye Kalkınma Fonu,participant
+146,HOGO Games,Nokta Games,lead
+147,Haelixa,212 NexT,participant
+147,Haelixa,Verve Ventures,participant
+147,Haelixa,Zürcher Kantonalbank,participant
+148,Orion Twin,PlayGate Ventures,participant
+148,Orion Twin,TÜBİTAK BiGG,participant
+149,Datatruck,DOMiNO Ventures,participant
+150,Corezzle Electronics,GearUp,lead
+151,Monetari,Tera Girişim,lead
+152,Arctis AI,PT1,lead
+152,Arctis AI,EWOR,participant
+152,Arctis AI,Superangels,participant
+153,Qrambo,212,lead
+153,Qrambo,Rubin Ritter,participant
+154,TaleMonster Games,Arcadia Gaming Partners,lead
+154,TaleMonster Games,a16z,lead
+154,TaleMonster Games,General Catalyst,participant
+154,TaleMonster Games,Point72,participant
+155,Mindsite,Finberg,participant
+155,Mindsite,Gelecek Etki GSYF,participant
+155,Mindsite,LEAP Investment,participant
+155,Mindsite,Sharks & Partners,participant
+155,Mindsite,TT Ventures GSYF,participant
+155,Mindsite,Teknoloji Yatırım,participant
+155,Mindsite,Teknoloji ve İnovasyon Fonu,participant
+155,Mindsite,Ömer Hayri Erkmen,participant
+156,Dataroid,Tacirler Portföy FinAI GSYF,lead
+156,Dataroid,Endeavor Catalyst,participant
+156,Dataroid,Gelecek Etki GSYF,participant
+157,VidRush,Andrew,lead
+158,xAI,Baron Capital Group,participant
+158,xAI,Cisco Investments,participant
+158,xAI,Fidelity Management & Research Company,participant
+158,xAI,MGX,participant
+158,xAI,NVIDIA,participant
+158,xAI,Qatar Investment Authority,participant
+158,xAI,StepStone Group,participant
+158,xAI,Valor Equity Partners,participant
+159,Brandefense,Yapay Zeka Fabrikası,lead
+160,Loom Games,Akın Babayiğit,participant
+160,Loom Games,e2vc,participant
+161,Okulyo,Insha Ventures,lead
+162,Büyütech,Yapay Zeka Fabrikası,lead
+163,GameByte,Webrazzi GSYF,lead
+165,FiberLAST,Koray GSYO,lead
+166,Bloocell Sağlık Teknolojileri,AgeSA,lead
+167,Biges Kompozit,AgeSA,lead
+168,Zenith FPV,Yapı Kredi Portföy Entertech GSYF,lead
+169,Rudiq,Simya VC,lead
+169,Rudiq,RePie Portföy,participant
+169,Rudiq,Savco Yatırım,participant
+171,Getmobil,IFC,lead
+171,Getmobil,Lowercarbon Capital,lead
+171,Getmobil,212,participant
+171,Getmobil,2150 VC,participant
+171,Getmobil,Arya VC,participant
+171,Getmobil,Dutch Founders Fund,participant
+171,Getmobil,Endeavor Catalyst,participant
+171,Getmobil,Maxis Ventures,participant
+171,Getmobil,TechOne VC,participant
+172,Rownd Precision,APY Ventures,lead
+173,Best Grup,Tera Yatırım Teknoloji Holding,lead
+174,dentalPrices,White Unicorn,lead
+175,Roamless,Rasmal Ventures,lead
+175,Roamless,Finberg,participant
+175,Roamless,JIMCO,participant
+175,Roamless,Revo Capital,participant
+175,Roamless,Shorooq,participant
+176,Aibuild,IQ Capital,lead
+176,Aibuild,212 NexT,participant
+176,Aibuild,ACT Venture Partners,participant
+176,Aibuild,Atlas Ventures,participant
+176,Aibuild,Driventure,participant
+176,Aibuild,Force Over Mass Capital,participant
+177,Abonesepeti,FonOrion,lead
+178,ARC Clean Technology,Banpu Ventures,participant
+178,ARC Clean Technology,Cleantech Ventures,participant
+178,ARC Clean Technology,Core Synergy,participant
+178,ARC Clean Technology,Hennessy Capital Group,participant
+178,ARC Clean Technology,Xplor Ventures,participant
+178,ARC Clean Technology,YEO Teknoloji,participant
+179,Mükellef Teknoloji,Türkiye Kalkınma Fonu,lead
+179,Mükellef Teknoloji,APY Ventures,participant
+179,Mükellef Teknoloji,Finberg,participant
+179,Mükellef Teknoloji,Teknoloji ve İnovasyon Fonu,participant
+180,fal.ai,Sequoia,lead
+180,fal.ai,Alkeon Capital,participant
+180,fal.ai,Bessemer Venture Partners,participant
+180,fal.ai,Kindred Ventures,participant
+180,fal.ai,Kleiner Perkins,participant
+180,fal.ai,Meritech Capital,participant
+180,fal.ai,NVIDIA,participant
+180,fal.ai,Notable Capital,participant
+180,fal.ai,Salesforce Ventures,participant
+180,fal.ai,Shopify Ventures,participant
+180,fal.ai,a16z,participant
+181,Bolt Insight,Pembroke VCT,lead
+181,Bolt Insight,212,participant
+181,Bolt Insight,Active Partners,participant
+181,Bolt Insight,TIBAS Ventures,participant
+181,Bolt Insight,Velocity,participant
+182,Abrakadabra Games,Link Bilgisayar,lead
+183,UnoMoi,nivo,lead
+184,Parabellum Systems,Kayacan Ventures,lead
+185,CoinMENA,Paribu,lead
+186,SeedScope AI,Serdar Turan,lead
+187,Werer Energy,Westure VC,lead
+188,Influencer Finance,Pars VC,lead
+189,EVE,Acquisition.com Ventures,participant
+189,EVE,DOMiNO Ventures,participant
+189,EVE,Firsthand Ventures,participant
+189,EVE,Founders Future,participant
+189,EVE,Geek Ventures,participant
+189,EVE,Punch Capital,participant
+189,EVE,Silicon Gardens,participant
+189,EVE,a16z Scout Fund,participant
+190,Basil,Zeynep Köksal Yaykıran,lead
+191,Agra Fintech,Sistem Global,lead
+192,Wonderful,Index Ventures,lead
+192,Wonderful,Bessemer Venture Partners,participant
+192,Wonderful,IVP,participant
+192,Wonderful,Insight Partners,participant
+192,Wonderful,Vine Ventures,participant
+193,Helio AI,Axiom,participant
+193,Helio AI,DOMiNO Ventures,participant
+193,Helio AI,SABAH.fund,participant
+193,Helio AI,Tetrad VC,participant
+194,EasyCep,Oleka Capital,participant
+194,EasyCep,RePie Portföy,participant
+194,EasyCep,Ziraat Portföy,participant
+195,SuperGears,Hedef Portföy,lead
+195,SuperGears,ACK Ventures,participant
+195,SuperGears,APY Ventures,participant
+195,SuperGears,Emre Yıldız,participant
+195,SuperGears,KRAFTON,participant
+195,SuperGears,The TMRW Foundation,participant
+195,SuperGears,Yıldız Tekno GSYO,participant
+195,SuperGears,İbrahim Akman,participant
+196,Blueit,Deniz Portföy,lead
+197,Apsiyon,Aareon Group,lead
+198,GoWit,Nuwa Capital,lead
+198,GoWit,APY Ventures,participant
+198,GoWit,DCP,participant
+198,GoWit,Formus Capital,participant
+199,Venlo,Kayacan Ventures,participant
+200,Onlayer,Oleka Capital,lead
+200,Onlayer,Deniz Ventures,participant
+200,Onlayer,Gelecek Etki GSYF,participant
+200,Onlayer,Invest101,participant
+200,Onlayer,Revo Capital,participant
+200,Onlayer,Sandeep Gomes,participant
+200,Onlayer,Vestel Ventures,participant
+201,Everstar,Third Prime VC,lead
+201,Everstar,Borusan Ventures,participant
+201,Everstar,EXCEL Services,participant
+201,Everstar,Generational Partners,participant
+201,Everstar,Page One Ventures,participant
+201,Everstar,Pelican Energy Partners,participant
+201,Everstar,Virta Ventures,participant
+202,Novus,Yapay Zeka Fabrikası,lead
+203,TeklifimGelsin,Hedef Portföy,lead
+204,Borusan Lojistik,CEVA Logistics,lead
+205,Iron Games,Arcadia Gaming Partners,lead
+206,Bucked Games,Insha Ventures,lead
+207,Mindra,TQ Ventures,lead
+208,Polygraf AI,Allegis Capital,participant
+208,Polygraf AI,Alumni Ventures,participant
+208,Polygraf AI,DOMiNO Ventures,participant
+208,Polygraf AI,DataPower VC,participant
+209,Carvak,Borusan Next,lead
+210,Şarjnerde,Aspar Asansör,lead
+210,Şarjnerde,Gaia Teknoloji,lead
+211,Upsonic,APY Ventures,participant
+211,Upsonic,Cem Sibay,participant
+211,Upsonic,Doğan Aksoy,participant
+211,Upsonic,Gelecek Etki GSYF,participant
+211,Upsonic,Orange.fund,participant
+211,Upsonic,Tambi Jalouqa,participant
+211,Upsonic,Taygun Alban,participant
+212,Surveill,Simya VC,participant
+213,Flai,First Round Capital,lead
+213,Flai,Borusan Ventures,participant
+213,Flai,Innovation Endeavors,participant
+213,Flai,Y Combinator,participant
+214,Skymod,EGİAD Melekleri,lead
+216,Beespenser,EIT Manufacturing,lead
+217,GetirAraç,TikTak,lead
+218,Cypher Games,Play Ventures,lead
+218,Cypher Games,The Raine Group,lead
+218,Cypher Games,Big Bets,participant
+218,Cypher Games,MIT Endowment,participant
+218,Cypher Games,e2vc,participant
+219,Marqby,SGlobe,lead
+220,Periodic Labs,Accel,participant
+220,Periodic Labs,DST Global,participant
+220,Periodic Labs,Elad Gil,participant
+220,Periodic Labs,Eric Schmidt,participant
+220,Periodic Labs,Jeff Bezos,participant
+220,Periodic Labs,Jeff Dean,participant
+220,Periodic Labs,NVIDIA,participant
+220,Periodic Labs,a16z,participant
+221,EchoTwin AI,Metis Ventures,lead
+221,EchoTwin AI,Automotive Ventures,participant
+221,EchoTwin AI,Eksim Ventures,participant
+221,EchoTwin AI,Higher Life Ventures,participant
+221,EchoTwin AI,Supernova,participant
+221,EchoTwin AI,Tesserakt Ventures,participant
+222,Dorinsight,TeklifimGelsin,lead
+223,Apollo,Arya VC,lead
+224,ConectoHub,idenfit,lead
+225,Kahuna,Revo Capital,lead
+227,VReators,Kemal Temel,lead
+228,Interzoon Teknoloji,Ange Makine,lead
+229,SmartAlpha,Eksim Ventures,lead
+230,PhiTech,Eksim Ventures,lead
+231,Fonmap,RePie Portföy,participant
+231,Fonmap,Tera Girişim,participant
+231,Fonmap,Turkcell Yeni Teknolojiler GSYF,participant
+232,dentalPrices,Casta Healthcare,lead
+234,SuLe,Sharks & Partners,participant
+236,Itz Nutz,ŞirketOrtağım,lead
+236,Itz Nutz,Mehmet Betil,participant
+237,Eachlabs,Revo Capital,participant
+238,Winfluencer,FCB Artgroup,lead
+238,Winfluencer,Yapay Zeka Fabrikası,lead
+238,Winfluencer,Decacorn Angels,participant
+239,reprai,Simya VC,lead
+241,Onedocs,APY Ventures,participant
+241,Onedocs,Arz Portföy,participant
+242,MagicPay,ENA Venture Capital,lead
+243,Manibux,Insha Ventures,lead
+244,ThingsHappen,ŞirketOrtağım,lead
+245,Myth AI,Inveo Ventures,lead
+245,Myth AI,Revo Capital,lead
+246,Aalo,Valor Equity Partners,lead
+246,Aalo,50Y,participant
+246,Aalo,Alumni Ventures,participant
+246,Aalo,Crescent Enterprises,participant
+246,Aalo,Crosscut,participant
+246,Aalo,Fine Structure Ventures,participant
+246,Aalo,Gaingels,participant
+246,Aalo,Harpoon Ventures,participant
+246,Aalo,Hitachi Ventures,participant
+246,Aalo,Hypernova,participant
+246,Aalo,Kindred Ventures,participant
+246,Aalo,MCJ,participant
+246,Aalo,NRG Energy,participant
+246,Aalo,Nucleation Capital,participant
+246,Aalo,Startupfon,participant
+246,Aalo,Tishman Speyer,participant
+246,Aalo,Vamos Ventures,participant
+246,Aalo,İTK Ventures,participant
+247,Mamentis,Kayacan Ventures,lead
+248,Kodgem,Infinia,lead
+249,Midas,QED Investors,lead
+249,Midas,IFC,participant
+251,Arf Lojistik Teknolojileri,Lojimod,lead
+252,Bilet.com,Insha Ventures,lead
+253,Kuantist,Alpogan Sabri Erdoğan,participant
+253,Kuantist,Gravity Team,participant
+253,Kuantist,Murat Çetinkaya,participant
+254,Wupdoc,Sharks & Partners,participant
+255,Platform Sağlık Hizmetleri,Bupa Türkiye,lead
+256,Unmind,TELUS Global Ventures,lead
+256,Unmind,Felix Capital,participant
+256,Unmind,Project A,participant
+256,Unmind,Sapphire Ventures,participant
+257,fal.ai,Meritech Capital,lead
+257,fal.ai,Bessemer Venture Partners,participant
+257,fal.ai,First Round Capital,participant
+257,fal.ai,Google AI Futures Fund,participant
+257,fal.ai,Kindred Ventures,participant
+257,fal.ai,Notable Capital,participant
+257,fal.ai,Salesforce Ventures,participant
+257,fal.ai,Shopify Ventures,participant
+257,fal.ai,Unusual Ventures,participant
+257,fal.ai,Village Global,participant
+257,fal.ai,a16z,participant
+259,Vitayou,Murat Demirhan,lead
+260,Ortus4C,Bupa Türkiye,lead
+261,Delve,Insight Partners,lead
+262,Startups.watch,Inveo Ventures,lead
+263,Remus Enerji,Cleantech Ventures,participant
+263,Remus Enerji,DOMiNO Ventures,participant
+264,Milvus Robotics,TT Ventures GSYF,lead
+264,Milvus Robotics,APY Ventures,participant
+264,Milvus Robotics,Ak Portföy,participant
+264,Milvus Robotics,Bölgesel Kalkınma Fonu,participant
+264,Milvus Robotics,Inveo Ventures,participant
+264,Milvus Robotics,Maxis Ventures,participant
+265,TASS Vision,500 Global,participant
+265,TASS Vision,Activat,participant
+265,TASS Vision,Big Sky Capital,participant
+265,TASS Vision,Caucasus Ventures,participant
+265,TASS Vision,DOMiNO Ventures,participant
+265,TASS Vision,IT Park Ventures,participant
+265,TASS Vision,Pragma Tech VC,participant
+265,TASS Vision,Purple Ventures,participant
+265,TASS Vision,SABAH.fund,participant
+265,TASS Vision,UzVC,participant
+266,Virgosol,Revo Capital,lead
+267,Saykal Elektronik,İş Portföy Yenilenebilir Enerji Teknolojileri GSYF,lead
+267,Saykal Elektronik,APY Ventures,participant
+267,Saykal Elektronik,Empa Elektronik,participant
+267,Saykal Elektronik,Fark Holding,participant
+267,Saykal Elektronik,RePie Portföy,participant
+267,Saykal Elektronik,T3 GSYF,participant
+268,Treasy,APY Ventures,lead
+268,Treasy,Tera Portföy,participant
+269,Logate,Odine,lead
+270,Loops AI,Mantra,participant
+270,Loops AI,Monday Capital,participant
+271,Tark Games,Ludus Ventures,lead
+271,Tark Games,APY Ventures,participant
+271,Tark Games,Maxis Ventures,participant
+272,DT Cloud,Yenilikçi ve İleri Teknolojiler GSYF,lead
+273,OctoXLabs,Yapı Kredi FRWRD Ventures,lead
+273,OctoXLabs,Finberg,participant
+273,OctoXLabs,Gelecek Etki GSYF,participant
+273,OctoXLabs,Maxis Ventures,participant
+273,OctoXLabs,TT Ventures GSYF,participant
+273,OctoXLabs,Teknoloji ve İnovasyon Fonu,participant
+274,Baktek,Pragma Capital Partners,lead
+274,Baktek,Haluk Bayraktar,participant
+274,Baktek,Murat Can Ertöz,participant
+275,Easyapp,Aykut Karaalioğlu,lead
+276,Tamamlıyo,Nexrone Global,lead
+276,Tamamlıyo,Ahmet Taşpınar,participant
+276,Tamamlıyo,Ali Çebi,participant
+276,Tamamlıyo,Emre Akman,participant
+276,Tamamlıyo,Sami Ergüneş,participant
+276,Tamamlıyo,Selim Gündoğan,participant
+276,Tamamlıyo,Selman Delil,participant
+276,Tamamlıyo,Serpil Dedeoğlu,participant
+276,Tamamlıyo,Taner Selamioğlu,participant
+276,Tamamlıyo,Yeşim Çevik,participant
+276,Tamamlıyo,Şamil Demir,participant
+277,ManageCash,Pars VC,lead
+278,EverDye,Crédit Mutuel Innovation,lead
+278,EverDye,Daphni,lead
+278,EverDye,212 NexT,participant
+278,EverDye,Asterion Ventures,participant
+278,EverDye,European Innovation Council,participant
+278,EverDye,Maki.vc,participant
+278,EverDye,Ring Capital,participant
+279,Orbina AI,ENA Venture Capital,lead
+280,Beekod,H2O Investment,lead
+281,Doktar,European Circular Bioeconomy Fund,lead
+281,Doktar,Pymwymic,lead
+281,Doktar,Diffusion Capital Partners,participant
+282,Ticimax,team.blue,lead
+283,IdeaSoft,Sipay,lead
+284,Enlighty AI,ENA Venture Capital,lead
+284,Enlighty AI,TRAngels,participant
+285,Bigger Games,Goodwater Capital,lead
+285,Bigger Games,Arcadia Gaming Partners,participant
+285,Bigger Games,Index Ventures,participant
+285,Bigger Games,Play Ventures,participant
+286,Hummingdrone,İTÜ ARI Teknokent,participant
+287,Nebyan Doğal,İş Girişim Sermayesi,lead
+288,Payrails,HV Capital,lead
+288,Payrails,EQT Ventures,participant
+288,Payrails,General Catalyst,participant
+289,Kolaj Co,Bixcod Teknoloji,lead
+290,VenueX,Orbit Startups,lead
+290,VenueX,Akkök Holding,participant
+290,VenueX,Akyaşam,participant
+290,VenueX,RePie Portföy,participant
+291,Branchsight,Teknoloji Yatırım,lead
+291,Branchsight,Arz Portföy,participant
+291,Branchsight,Berkay Mollamustafaoğlu,participant
+291,Branchsight,Yaman Tunaoğlu,participant
+292,idenfit,Ünlü & Co,lead
+292,idenfit,Pragma Capital Partners,participant
+292,idenfit,Sistem Global,participant
+292,idenfit,Türkiye Kalkınma Fonu,participant
+293,Werover,Alchemist Doha,lead
+293,Werover,Ata Akça,participant
+293,Werover,Burcu Gezegen,participant
+293,Werover,Cleantech Ventures,participant
+293,Werover,Erdem Holding,participant
+293,Werover,Founder One,participant
+293,Werover,Kerim Kotan,participant
+293,Werover,Yalın Karadoğan,participant
+295,Virasoft,Eksim Ventures,lead
+296,DefensX,Eksim Ventures,lead
+297,Algoma,Zacua Ventures,lead
+297,Algoma,ComposeVC,participant
+297,Algoma,DOMiNO Ventures,participant
+297,Algoma,Iron Prairie Ventures,participant
+297,Algoma,SOSV,participant
+298,Valenspara,Insha Ventures,lead
+299,TaleMonster Games,General Catalyst,lead
+299,TaleMonster Games,Arcadia Gaming Partners,participant
+299,TaleMonster Games,Ludus Ventures,participant
+299,TaleMonster Games,a16z Speedrun,participant
+300,Co-one,Ak Portföy,lead
+300,Co-one,DOMiNO Ventures,participant
+300,Co-one,LEAP Investment,participant
+300,Co-one,Maxis Ventures,participant
+300,Co-one,TechOne VC,participant
+301,Alpaka Games,Ludus Ventures,participant
+301,Alpaka Games,Revo Capital,participant
+301,Alpaka Games,a16z Speedrun,participant
+302,Fuse Games,Griffin Gaming Partners,lead
+302,Fuse Games,Actera,participant
+302,Fuse Games,Lakestar,participant
+302,Fuse Games,NFX,participant
+303,Rentser,Kayacan Ventures,lead
+304,Trendyol GO,Uber,lead
+305,Fuze,Galaxy,lead
+305,Fuze,e& capital,lead
+306,Sneaks Up,Azimut Portföy,participant
+306,Sneaks Up,Lycian Capital,participant
+306,Sneaks Up,Maxis Ventures,participant
+307,Dream Games,CVC Capital Partners,lead
+307,Dream Games,Blackstone,participant
+309,Kiralarsın,TIBAS Ventures,lead
+309,Kiralarsın,Arya VC,participant
+309,Kiralarsın,QNBEYOND Ventures,participant
+310,HOGO Games,Red Axe Games,lead
+311,Datatruck,Aloqa Ventures,participant
+311,Datatruck,DOMiNO Ventures,participant
+311,Datatruck,IT Park Ventures,participant
+312,Boby AI,London Venture Partners,lead
+312,Boby AI,Diffusion Capital Partners,participant
+312,Boby AI,F4 Fund,participant
+313,Fourier,General Catalyst,lead
+313,Fourier,Paramark Ventures,lead
+313,Fourier,Airbus Ventures,participant
+313,Fourier,Borusan Ventures,participant
+313,Fourier,GSBackers,participant
+313,Fourier,MCJ,participant
+313,Fourier,Positive Ventures,participant
+314,MaestroHub,Cevher Grubu,participant
+314,MaestroHub,Fark Labs,participant
+315,PhilosopherKing,212,lead
+315,PhilosopherKing,468 Capital,lead
+316,Time Reactor,Siskon Endüstriyel Otomasyon,lead
+317,Feraset,Play Ventures,participant
+317,Feraset,e2vc,participant
+318,FlexyWatt,Ahmet Bilgen,lead
+319,Büyütech,Teknoloji ve İnovasyon Fonu,lead
+320,Peak,UiPath,lead
+322,Fazla,Deniz Portföy,participant
+323,Replenit,Logo Ventures,lead
+323,Replenit,Arif Akdağ,participant
+323,Replenit,Ata Uzunhasan,participant
+323,Replenit,Bülent Çelebi,participant
+323,Replenit,Caucasus Ventures,participant
+323,Replenit,Görkem Güven,participant
+323,Replenit,Kaan Boyner,participant
+323,Replenit,Tunç Berkman,participant
+323,Replenit,Varol Civil,participant
+323,Replenit,Özgür Erdem,participant
+324,Navlungo,Akiş GYO,participant
+324,Navlungo,Akkök Holding,participant
+324,Navlungo,Arya VC,participant
+324,Navlungo,Arz Portföy,participant
+324,Navlungo,MOST Ventures,participant
+324,Navlungo,OBSS Ventures,participant
+324,Navlungo,idacapital,participant
+325,Workflex,Expertera,lead
+326,Perculus,Constructor Tech,lead
+327,Yuva,Startans,lead
+328,Surpass Games,Laton Ventures,lead
+329,Angel Effect,NetSafe,lead
+330,EtraPay,Ava Labs,lead
+331,Pointship,Startup Wise Guys,participant
+332,Splitvolt,Vestel Ventures,participant
+333,Eachlabs,Right Side Capital,lead
+333,Eachlabs,Alper Güler,participant
+333,Eachlabs,Andaç Türkmen,participant
+333,Eachlabs,Begim Başlıgil,participant
+333,Eachlabs,Cihat İmamoğlu,participant
+333,Eachlabs,Dara Hizveren,participant
+333,Eachlabs,ENA Venture Capital,participant
+333,Eachlabs,Galip Selçuk,participant
+333,Eachlabs,Gertjan Ndoja,participant
+333,Eachlabs,Gökben Demir,participant
+333,Eachlabs,Korhan Erçin,participant
+333,Eachlabs,Kristian Serani,participant
+333,Eachlabs,Nevzat Aydın,participant
+333,Eachlabs,Orçun Şimşek,participant
+333,Eachlabs,Serra Küçükoğlu,participant
+333,Eachlabs,Silva Ndoja,participant
+333,Eachlabs,Treeo VC,participant
+334,Albert Health,Ak Portföy,participant
+334,Albert Health,Eksim Ventures,participant
+334,Albert Health,Maxis Ventures,participant
+334,Albert Health,Sabancı Ventures,participant
+334,Albert Health,TT Ventures GSYF,participant
+334,Albert Health,Yapay Zeka Fabrikası,participant
+335,QuEra,Google,lead
+335,QuEra,Sabancı Ventures,participant
+335,QuEra,SoftBank Vision Fund 2,participant
+335,QuEra,Valor Equity Partners,participant
+336,Tripy,Ahu Serter,participant
+336,Tripy,Selcen Uyguntüzel,participant
+337,Aposto,Paribu,lead
+338,Mundi,DeBa Ventures,participant
+338,Mundi,Speedinvest,participant
+339,Tyba,Energize Capital,lead
+339,Tyba,Borusan Ventures,participant
+339,Tyba,Lorimer,participant
+339,Tyba,Mobilize Climate Capital,participant
+339,Tyba,Pear VC,participant
+339,Tyba,Powerhouse,participant
+339,Tyba,Virta Ventures,participant
+339,Tyba,Wireframe,participant
+340,Playable Factory,Ludus Ventures,lead
+341,Eluvium,Simya VC,lead
+341,Eluvium,Heartfelt Capital,participant
+342,Fimple,DN Capital,lead
+342,Fimple,Smartfin,lead
+342,Fimple,APY Ventures,participant
+342,Fimple,Tera Portföy,participant
+343,Onlayer,Gelecek Etki GSYF,lead
+343,Onlayer,Global Trust Ventures,participant
+343,Onlayer,Mehmet Ali Tombalak,participant
+343,Onlayer,Mehmet Sait Halıcı,participant
+343,Onlayer,Sytze Koolen,participant
+343,Onlayer,Vestel Ventures,participant
+345,Everpixel,VLMedia,lead
+346,TeamSec,Deniz Ventures,participant
+346,TeamSec,Rasmal Ventures,participant
+347,Hepsiburada,Kaspi.kz,lead
+348,Turan,United Payment,lead
+349,HockeyStack,Bessemer Venture Partners,lead
+349,HockeyStack,QNBEYOND Ventures,participant
+349,HockeyStack,Uncorrelated,participant
+349,HockeyStack,Y Combinator,participant
+351,Wboxgo,Capital Collective,lead
+352,Mega Fortuna,Aonic,lead
+353,Büyütech,T3 GSYF,lead
+354,FineDine,Arya VC,lead
+355,Lojipay,Diginak,lead
+356,NN Hayat ve Emeklilik,Zurich Türkiye,lead
+357,ActZero,WatchGuard,lead
+358,Grand Games,Balderton,lead
+358,Grand Games,Bek Ventures,participant
+358,Grand Games,Laton Ventures,participant
+358,Grand Games,Mert Gür,participant
+359,Skai Apple Search Ads business,MobileAction,lead
+360,Magnus,Decacorn Angels,participant
+360,Magnus,Techventure VC,participant
+361,Meetgate,ŞirketOrtağım,lead
